@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "advancedperipherals:manual": {
+      "viewedEntries": [
+        "advancedperipherals:items/computer_tool",
+        "advancedperipherals:items/pocket_computers",
+        "advancedperipherals:items/memory_card",
+        "advancedperipherals:items/chunk_controller"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

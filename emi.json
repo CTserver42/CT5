@@ -1,0 +1,32 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:ender_pearl",
+    "#item:c:ender_pearls",
+    "item:shrink:shrinking_device{\"shrink:scale\":10.0d}",
+    "item:pneumaticcraft:elevator_base",
+    "item:pneumaticcraft:elevator_caller",
+    "item:mcwholidays:christmas_tree_bottom",
+    "item:mcwholidays:purple_decorated_christmas_tree_bottom",
+    "item:modern_industrialization:lignite_coal",
+    "item:modern_industrialization:lignite_coal_ore",
+    "item:hazennstuff:silver_scraps",
+    "item:modern_industrialization:bronze_dust",
+    "item:modern_industrialization:bronze_ingot",
+    "item:mekanismtools:bronze_chestplate",
+    "item:computercraft:computer_normal",
+    "item:advanced_ae:quantum_accelerator",
+    "item:advanced_ae:quantum_storage_256",
+    "item:computercraft:computer_advanced"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [
+      "computercraft:computer_normal"
+    ],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
