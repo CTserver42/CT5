@@ -158,7 +158,7 @@ _version = 3
 				#
 				# If true non terrain objects will be rendered in DH's terrain. 
 				# This includes beacon beams and clouds.
-				enableGenericRendering = true
+				enableGenericRendering = false
 				#
 				# If true LOD beacon beams will be rendered.
 				enableBeaconRendering = true
@@ -294,7 +294,7 @@ _version = 3
 				# Should a noise texture be applied to LODs? 
 				# 
 				# This is done to simulate textures and make the LODs appear more detailed.
-				enableNoiseTexture = true
+				enableNoiseTexture = false
 				#
 				# How many steps of noise should be applied to LODs?
 				noiseSteps = 4
@@ -326,7 +326,7 @@ _version = 3
 				#  overhangs or walls for floating objects. 
 				#  Tweaking the caveCullingHeight, can resolve some 
 				#  of those issues.
-				enableCaveCulling = true
+				enableCaveCulling = false
 				#
 				# At what Y value should cave culling start? 
 				# Lower this value if you get walls for areas with 0 light.
@@ -670,7 +670,7 @@ _version = 3
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 16
+		numberOfThreads = 12
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 

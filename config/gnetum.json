@@ -9,8 +9,8 @@
     "value": "OFF"
   },
   "numberOfPasses": 3,
-  "maxFps": 25,
-  "screenMaxFps": 25,
+  "maxFps": 50,
+  "screenMaxFps": 50,
   "mapVanillaElements": {
     "minecraft:spectator_tooltip": {
       "enabled": {

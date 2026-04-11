@@ -138,38 +138,38 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"duckling:duck": true
-			"minecraft:zombie_villager": true
-			"minecraft:horse": true
-			"artifacts:mimic": true
-			"aquaculture:bluegill": false
-			"minecraft:fox": true
-			"aquaculture:perch": false
-			"minecraft:pig": true
-			"minecraft:bat": true
-			"minecraft:glow_squid": true
-			"creeperoverhaul:cave_creeper": true
-			"creeperoverhaul:dripstone_creeper": true
-			"minecraft:witch": true
-			"minecraft:squid": true
-			"minecraft:parrot": true
-			"creeperoverhaul:bamboo_creeper": true
-			"minecraft:spider": true
-			"ars_nouveau:starbuncle": true
-			"irons_spellbooks:necromancer": true
 			"minecraft:chicken": true
-			"aquaculture:arrau_turtle": false
-			"minecraft:zombie": true
-			"vinery:mule": true
-			"minecraft:sheep": false
+			"minecraft:bat": true
+			"artifacts:mimic": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:fox": true
+			"minecraft:horse": true
 			"minecraft:skeleton": true
+			"creeperoverhaul:cave_creeper": true
+			"minecraft:cow": true
+			"minecraft:glow_squid": true
+			"minecraft:squid": true
+			"minecraft:creeper": true
+			"duckling:duck": true
+			"aquaculture:perch": false
+			"creeperoverhaul:bamboo_creeper": true
+			"minecraft:sheep": false
+			"minecraft:axolotl": true
+			"minecraft:witch": true
+			"aquaculture:piranha": false
+			"minecraft:zombie": true
+			"minecraft:parrot": true
+			"aquaculture:bluegill": false
+			"minecraft:zombie_villager": true
+			"vinery:mule": true
+			"minecraft:enderman": true
+			"minecraft:pig": true
+			"creeperoverhaul:dripstone_creeper": true
+			"minecraft:spider": true
 			"vinery:wandering_winemaker": true
 			"aquaculture:tambaqui": false
-			"minecraft:cow": true
-			"minecraft:enderman": true
-			"aquaculture:piranha": false
-			"minecraft:creeper": true
-			"minecraft:axolotl": true
+			"aquaculture:arrau_turtle": false
+			"ars_nouveau:starbuncle": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
