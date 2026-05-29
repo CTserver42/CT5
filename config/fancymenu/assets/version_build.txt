@@ -1,3 +1,0 @@
-#CT5 29.05.26 Build
-Minecraft {"placeholder":"mcversion"}
-{"placeholder":"loadername"} {"placeholder":"loaderver"} ({"placeholder":"loadedmods"} Mods loaded)
